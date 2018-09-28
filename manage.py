@@ -9,9 +9,9 @@
 import logging
 import sys
 from bot.base import start_bot
-from run import start_server
-from environment import env
 from optparse import OptionParser, OptionGroup
+from settings.environment import env
+from settings.run import start_server
 
 LOG_FORMAT = '[%(asctime)s] %(levelname)s [line:%(lineno)s] [%(funcName)s] %(message)s'
 logging.basicConfig(format=LOG_FORMAT)

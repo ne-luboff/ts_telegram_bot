@@ -10,12 +10,15 @@ import json
 
 import logging
 import os
-import tornado
+# import tornado
+from tornado import web
+
 
 logger = logging.getLogger(__name__)
 
 
-class BaseHandler(tornado.web.RequestHandler):
+# class BaseHandler(tornado.web.RequestHandler):
+class BaseHandler(web.RequestHandler):
 
     def render_html(self, path):
         # make path absolute

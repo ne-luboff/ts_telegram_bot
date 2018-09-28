@@ -7,8 +7,7 @@
 # Author: Liubov M. <liubov.mikhailova@gmail.com>
 
 import datetime
-
-from base import BaseHandler
+from settings.base import BaseHandler
 
 
 class IndexHandler(BaseHandler):

@@ -7,13 +7,12 @@
 # Author: Liubov M. <liubov.mikhailova@gmail.com>
 
 import logging
+from settings.base import Default404Handler
+from settings.environment import env
+from settings.router import api_handlers
 
 import tornado.ioloop
 import tornado.web
-from base import Default404Handler
-
-from environment import env
-from router import api_handlers
 
 logger = logging.getLogger(__name__)
 
