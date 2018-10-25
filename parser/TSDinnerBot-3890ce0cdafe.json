@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tsdinnerbot",
+  "private_key_id": "3890ce0cdafe0ff040e23a5ec05ac926fd5027b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCnDgnaLrkzDq73\nk6fsxvLWUMKMAdz7YgkuWI/MM/beY18t2LjUGnqhFffKGf1afSIt8iCGDswKpLaE\nzDaXN84ZBjJ2DrzS3fsFKasMYTgjYSdaaHwipTG0eC5SlwOCy8dW8HuM4Sb7BfDB\nhbUNOp5pdyyjcUNORFyDfgzxSabc2CGLZTMSOvXXTkRNY+g1ekTGCuPKCqO4dqx3\n62X/z/U6BbXvPcfrjph0yk07gNjvW/WOkxOJVZyVz9LjmWshmFGFcgS/KU4kKrvy\nVJLsdnr+HgP2WnHmG29k1yfgMRmDRSmkqxOuNgJTpAB2Ou399AvNBTsb4M7vJ4dR\nU8Lb/XQXAgMBAAECggEADdXmacqRQUt7B26UOGw1wOg8l9BKFz8EWArmEr+1aq+7\n1BYGul8pchDATl24RpFMjmLNeZNDwbHomx3RFTvkkHZoVK/3YlaxXoXkvVUj8biV\nkMt/utxucTru4zcDB6DAjrb2FJhLj5WE96vCPFxzGEFr654+BWWfn+HsFbCUgEyU\nnLn1sN7RbsvNIjbl0CJbn3tm2FXpjVVTAqFWs1DdKp1kqWrvBY5J6iJgn+jAzI0p\n5TeobKgNqUtXGAB8ZV7Uvm62K0MrTtiODOoBTWQPvsPVXl8E80t3XlecjAyWAsus\nkR1ZZ8eiVjIaB327AqyX1APVO9mJpHd328Bnj5PvCQKBgQDgtB37Py5CiSFZG16d\nQla95LYeJDB04JXPkKLZ5NgF2u/+RGBnb5CsFv6IscZHNX2BT2PvG/rN6jMF4gEF\nlYTOmLpv2jR62OnzShAjXd5kvP6M8lj6+VGt0HV79dHELqTT80zDw3I+2AafycPY\nhA7XWlqfwQPOxEfX9b7eLhX/gwKBgQC+Um+LAKI+u5FCj/YuEI1PRXEJWdMwZcYw\nc/V7+PR/YU2wU/9JUBhl79AvLE5jLdk1CaePm6hBZV/6V/Ri+CXczGz1LWncajV8\n8ge3HYX8+RDbP+fDd7v2Vmh/LB0S249p8iOHrapzGBh8SMBt8oElI03tFlgKD/mt\nHJ0pIBqg3QKBgDVB231KGz+/2ryQ5Rrmt0Joq9V3BFkfRcKdaEu2lpDEtG8Sa7r4\nUVTIWmmxoOoNvoJge7IXcplNcexqBY36QzDoN//8usWHFeQI4MxRGj3MIZTsd7R8\nVSSaLM5FlAMofv6RQtd/Qlusvd0vaBCwNAhMrQACMlHWaaTA5Q0p5SLbAoGAP1BZ\nPxrE3q2zUztlIEntWJO3WO8C7LTOy8unvMhDPiT2nVQ0NwVoOHEhBrBsm13jRluh\n3Iph3O+GkFe2Oz5mCiAPlzi2YNcMWDaEDozJyDBrRSTrSwGIDBkOxk+8lEtqWEpv\nO3GwpH09mArzyR/Fir9F6ztlqmNKIibEuauucBkCgYARDZ6QWgRQtwCzM/p0Miyt\nz4YBui0hka3J8XyBjjOpct8VF+v/BR379Or7JunpI//ILn3HyzypbpkNdDTz5GAw\nFnmMq+xt1bAbNrs5aGIgRqIGzkjgi4bU8qgfs1dWS8o9WONkZZdSTf3eUzM+nw+/\nsHlyETdS7/J3AtRreJNjWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tsdinnerbot@tsdinnerbot.iam.gserviceaccount.com",
+  "client_id": "110933808186830260090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tsdinnerbot%40tsdinnerbot.iam.gserviceaccount.com"
+}
