@@ -3,12 +3,11 @@ cachetools==2.1.0
 cassandra-driver==3.15.1
 certifi==2018.8.24
 cffi==1.11.5
+chardet==3.0.4
 cryptography==2.3.1
 docutils==0.14
 future==0.16.0
-google-api-python-client==1.7.4
-google-auth==1.5.1
-google-auth-httplib2==0.0.3
+gspread==3.0.1
 httplib2==0.11.3
 idna==2.7
 lockfile==0.12.2
@@ -18,7 +17,9 @@ pyasn1-modules==0.2.2
 pycparser==2.19
 python-daemon==2.1.2
 python-telegram-bot==11.1.0
+requests==2.20.0
 rsa==4.0
 six==1.11.0
 tornado==5.1
 uritemplate==3.0.0
+urllib3==1.24
