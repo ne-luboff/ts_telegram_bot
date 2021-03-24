@@ -18,7 +18,7 @@ pycparser==2.19
 python-daemon==2.1.2
 python-telegram-bot==11.1.0
 requests==2.20.0
-rsa==4.0
+rsa==4.1
 six==1.11.0
 tornado==5.1
 uritemplate==3.0.0
